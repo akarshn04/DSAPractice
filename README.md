@@ -2,7 +2,7 @@
 This repository just has few practice questions for DSA. 
 It contains competitive programming questions & solutions.
 
-# 1.Symmentric Logo
+# 1. Symmentric Logo
   Link to problem- https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/roy-and-symmetric-logos-1/
   
 # 2. True Cells
@@ -13,3 +13,5 @@ It contains competitive programming questions & solutions.
   Other examples- 1. LISTEN <----> SILENT\
                   2. TRIANGLE <----> INTEGRAL\
   The time complexity of the solution is O(n)
+# 4. Add 1 to the number
+    Link to problem-https://www.interviewbit.com/problems/add-one-to-number/
