@@ -9,7 +9,7 @@ It contains competitive programming questions & solutions.
   Link to problem- https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/practice-problems/algorithm/saul-goodmans-problem-statement/description/
 
 # 3. ANAGRAM STRINGS
-    An anagram of a string is another string that contains same characters, only the order of characters can be different.<br/> For example, “abcd” and “dabc” are anagram of each other.\
+   An anagram of a string is another string that contains same characters,<br/>only the order of characters can be different.<br/> For example, “abcd” and “dabc” are anagram of each other.
   Other examples- 1. LISTEN <----> SILENT\
                   2. TRIANGLE <----> INTEGRAL\
   The time complexity of the solution is O(n)
