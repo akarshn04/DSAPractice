@@ -14,4 +14,4 @@ It contains competitive programming questions & solutions.
                   2. TRIANGLE <----> INTEGRAL\
   The time complexity of the solution is O(n)
 # 4. Add 1 to the number
-    Link to problem-https://www.interviewbit.com/problems/add-one-to-number/
+   Link to problem- https://www.interviewbit.com/problems/add-one-to-number/
