@@ -17,10 +17,10 @@ It contains competitive programming questions & solutions.
    Link to problem- https://www.interviewbit.com/problems/add-one-to-number/
    
 # 5. Peak of an array
-   Given an integer array A of size N.
-   You need to check that whether there exist a element which is strictly greater than all the elements on left of it and<br />strictly smaller than all the elements on right of it.
+   Given an integer array A of size N. You need to check that whether there exist a element which is strictly greater than all the elements on left of it and strictly smaller than all the elements on right of it.
 
-  If it exists return 1 else return 0.
-  **NOTE:**
-  -Do not consider the corner elements i.e A[0] and A[N-1] as the answer.
+  If it exists return 1 else return 0.<br />
+  
+  **NOTE:**<br />
+  - Do not consider the corner elements i.e A[0] and A[N-1] as the answer.
 
